@@ -2,6 +2,10 @@
 Movie Info Web Project
 
 # yys1694.github.io/movieInfo
-  * Case-Sensitive: movieInfo
-  * Available on FireFox and Safari
+  * Case-Sensitive url: movieInfo
+  * Available on FireFox and Safari 
+    (Not fully working on Chrome)
+  * API from https://www.themoviedb.org/documentation/api
   * Source codes are stored in private repo
+  
+
